@@ -7,3 +7,6 @@ Current time is : 10 PM : 30 : 38
 ```
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-1)
 ___
+## 2. Write a JavaScript program to print the current window contents.
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-2)
+___
