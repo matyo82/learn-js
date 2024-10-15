@@ -5,5 +5,5 @@ ___
 Sample Output : Today is : Tuesday.
 Current time is : 10 PM : 30 : 38
 ```
-[mg-web.com](#my-custom-anchor-point)
+[see source]([#my-custom-anchor-point](https://github.com/matyo82/learn-js/tree/main/exercise-1))
 ___
