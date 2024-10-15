@@ -10,3 +10,11 @@ ___
 ## 2. Write a JavaScript program to print the current window contents.
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-2)
 ___
+## 3. Write a JavaScript program to get the current date. Expected Output :
+```
+mm-dd-yyyy, mm/dd/yyyy 
+        or 
+dd-mm-yyyy, dd/mm/yyyy
+```
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-3)
+___
