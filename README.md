@@ -18,3 +18,6 @@ dd-mm-yyyy, dd/mm/yyyy
 ```
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-3)
 ___
+### 4. Write a JavaScript program to find the area of a triangle where three sides are 5, 6, 7.
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-4)
+___
