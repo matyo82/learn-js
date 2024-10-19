@@ -21,3 +21,5 @@ ___
 ### 4. Write a JavaScript program to find the area of a triangle where three sides are 5, 6, 7.
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-4)
 ___
+### 5. Write a JavaScript program to rotate the string 'w3resource' in the right direction. This is done by periodically removing one letter from the string end and attaching it to the front.
+ [see source](https://github.com/matyo82/learn-js/tree/main/exercise-5)
