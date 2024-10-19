@@ -22,4 +22,7 @@ ___
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-4)
 ___
 ### 5. Write a JavaScript program to rotate the string 'w3resource' in the right direction. This is done by periodically removing one letter from the string end and attaching it to the front.
- [see source](https://github.com/matyo82/learn-js/tree/main/exercise-5)
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-5)
+### 6. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-6)
+___
