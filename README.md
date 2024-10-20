@@ -35,3 +35,8 @@ ___
 ### 9. Write a JavaScript program to calculate the days left before Christmas.
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-9)
 ___
+### 10. Write a JavaScript program to calculate multiplication and division of two numbers (input from the user). Sample form :
+![img.png](img.png)
+
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-10)
+___
