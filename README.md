@@ -32,3 +32,6 @@ ___
 ### 8. Write a JavaScript program where the program takes a random integer between 1 and 10, and the user is then prompted to input a guess number. The program displays a message "Good Work" if the input matches the guess number otherwise "Not matched".
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-8)
 ___
+### 9. Write a JavaScript program to calculate the days left before Christmas.
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-9)
+___
