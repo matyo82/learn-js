@@ -26,3 +26,6 @@ ___
 ### 6. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-6)
 ___
+### 7. Write a JavaScript program to find out if 1st January will be a Sunday between 2014 and 2050.
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-7)
+___
