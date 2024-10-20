@@ -29,3 +29,6 @@ ___
 ### 7. Write a JavaScript program to find out if 1st January will be a Sunday between 2014 and 2050.
 [see source](https://github.com/matyo82/learn-js/tree/main/exercise-7)
 ___
+### 8. Write a JavaScript program where the program takes a random integer between 1 and 10, and the user is then prompted to input a guess number. The program displays a message "Good Work" if the input matches the guess number otherwise "Not matched".
+[see source](https://github.com/matyo82/learn-js/tree/main/exercise-8)
+___
